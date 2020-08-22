@@ -54,3 +54,16 @@ Polimorfismo
 Métodos estáticos
 
 Maneiras de tratar objetos de diferentes tipos de maneira parecida
+
+Aula5
+O que aprendemos nessa aula:
+
+operador in
+
+operador instanceOf
+
+Como proteger nossos sistemas
+
+interfaces padronizadas
+
+Ducky Type
